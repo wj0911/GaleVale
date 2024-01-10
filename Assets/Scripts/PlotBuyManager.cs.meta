@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 13db7bfdfd54441e28bfa603da4c3b6b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - plotMenuText: {instanceID: 0}
+  - selectedPlot: {instanceID: 0}
+  - gold: {fileID: 11400000, guid: 469176d52a4af4524bc5417074984809, type: 2}
+  - plotsBought: {fileID: 11400000, guid: 4f95b7c44639d46dbb103ebc1df5306b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

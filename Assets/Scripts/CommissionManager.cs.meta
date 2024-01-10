@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 56971e57639774c888b82fe54db651b7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - committed: {fileID: 11400000, guid: 89560bf55f02e49cda0cac095856d4ff, type: 2}
+  - commissionText: {instanceID: 0}
+  - goldCount: {instanceID: 0}
+  - sellMenuText: {instanceID: 0}
+  - sellMenu: {instanceID: 0}
+  - sellInput: {instanceID: 0}
+  - inventory: {instanceID: 0}
+  - commissionObject: {instanceID: 0}
+  - gold: {fileID: 11400000, guid: 469176d52a4af4524bc5417074984809, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

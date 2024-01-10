@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 23040ecd23fa04f568ec79d0acd95e08
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gold: {fileID: 11400000, guid: 469176d52a4af4524bc5417074984809, type: 2}
+  - growthSpeed: {fileID: 11400000, guid: 1eda36943c6454b399e13bdd0db38208, type: 2}
+  - soilQuality: {fileID: 11400000, guid: eed8c8f807cd74b40b131af46ea310e7, type: 2}
+  - fineHarvest: {fileID: 11400000, guid: 7e1ee50287ba643a6b299a6d82bdb01f, type: 2}
+  - committed: {fileID: 11400000, guid: 89560bf55f02e49cda0cac095856d4ff, type: 2}
+  - goldenRule: {fileID: 11400000, guid: 6efa7cd0b9ac740a7bfaf880388eac61, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
